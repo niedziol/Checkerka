@@ -1,2 +1,2 @@
 # Checkerka
-A simple template of script used to check a correctness of algorithmic problems solutions.
+A simple template of a script used to check the correctness of algorithmic problems solutions.
